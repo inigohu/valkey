@@ -1,0 +1,6 @@
+/bin
+*.conf
+.terraform*
+terraform.tfstate*
+terraform.tfvars
+*.pem
